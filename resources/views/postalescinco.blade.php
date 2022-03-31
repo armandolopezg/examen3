@@ -30,7 +30,7 @@
 								</li>
 
                                 <li>
-									<a href="{{route('postales')}}">API CODIGO POSTALES</a>
+								<li class="current"><a href="{{route('postales')}}">API CODIGO POSTALES</a>
 									<ul>
 										<li><a href="{{route('postales')}}">Zona 1</a></li>
 										<li><a href="{{route('postalesdos')}}">Zona 2</a></li>
